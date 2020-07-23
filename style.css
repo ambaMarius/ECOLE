@@ -1,0 +1,36 @@
+.phrase
+{
+    margin-left: 50%;
+}
+.images
+{
+    padding-top: 5%;
+}
+.description
+{
+    padding-top: 11%;
+}
+.titre
+{
+    padding-top: 3%;
+}
+.titre a:hover
+{
+    color: brown;
+}
+.card
+{
+    border: 0ch;
+}
+.contenuImage
+{
+    margin-top:5%;
+}
+body
+{
+    background-image: url('background.jpg');
+}
+.foot, a, .pied
+{
+    color: aliceblue;
+}
